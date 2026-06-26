@@ -18,6 +18,9 @@ To recreate this project with the same configuration:
 npx sv@0.16.1 create --template minimal --types ts --install npm .
 ```
 
+## Build Status
+Automated APK builds via GitHub Actions
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
